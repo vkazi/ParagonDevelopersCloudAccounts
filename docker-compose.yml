@@ -1,0 +1,42 @@
+version: "3.7"
+
+services:
+
+  # KEY MODULE: Every MicroService depends on this module and plays a key role in determining MicroService ownership. 
+  ClientCore:
+    environment:
+      - MICROSERVICE=Account
+
+
+
+  WebFrontEnd:
+    image:
+    volumes: ["Accounts", "Inventory", "Banking", ]
+
+
+  AccountsBackEnd:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - MICROSERVICE=Account
+
+  InventoryBackEnd:
+    environment:
+      - MICROSERVICE=Inventory
+
+  BankingBackEnd:
+    environment:
+      - MICROSERVICE=Banking
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+  
