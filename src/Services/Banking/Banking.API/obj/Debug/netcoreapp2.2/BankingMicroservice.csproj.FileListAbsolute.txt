@@ -1,0 +1,14 @@
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Banking\Banking.API\bin\Debug\netcoreapp2.2\BankingMicroservice.deps.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Banking\Banking.API\bin\Debug\netcoreapp2.2\BankingMicroservice.runtimeconfig.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Banking\Banking.API\bin\Debug\netcoreapp2.2\BankingMicroservice.runtimeconfig.dev.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Banking\Banking.API\bin\Debug\netcoreapp2.2\BankingMicroservice.dll
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Banking\Banking.API\bin\Debug\netcoreapp2.2\BankingMicroservice.pdb
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Banking\Banking.API\obj\Debug\netcoreapp2.2\BankingMicroservice.csprojAssemblyReference.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Banking\Banking.API\obj\Debug\netcoreapp2.2\BankingMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Banking\Banking.API\obj\Debug\netcoreapp2.2\BankingMicroservice.RazorAssemblyInfo.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Banking\Banking.API\obj\Debug\netcoreapp2.2\BankingMicroservice.RazorAssemblyInfo.cs
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Banking\Banking.API\obj\Debug\netcoreapp2.2\BankingMicroservice.AssemblyInfoInputs.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Banking\Banking.API\obj\Debug\netcoreapp2.2\BankingMicroservice.AssemblyInfo.cs
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Banking\Banking.API\obj\Debug\netcoreapp2.2\BankingMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Banking\Banking.API\obj\Debug\netcoreapp2.2\BankingMicroservice.dll
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Banking\Banking.API\obj\Debug\netcoreapp2.2\BankingMicroservice.pdb

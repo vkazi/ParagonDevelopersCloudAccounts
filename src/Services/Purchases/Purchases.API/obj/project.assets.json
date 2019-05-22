@@ -12080,11 +12080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\PurchasesMicroservice\\PurchasesMicroservice.csproj",
+      "projectUniqueName": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Purchases\\Purchases.API\\PurchasesMicroservice.csproj",
       "projectName": "PurchasesMicroservice",
-      "projectPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\PurchasesMicroservice\\PurchasesMicroservice.csproj",
+      "projectPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Purchases\\Purchases.API\\PurchasesMicroservice.csproj",
       "packagesPath": "C:\\Users\\VakishnaThayalan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\PurchasesMicroservice\\obj\\",
+      "outputPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Purchases\\Purchases.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

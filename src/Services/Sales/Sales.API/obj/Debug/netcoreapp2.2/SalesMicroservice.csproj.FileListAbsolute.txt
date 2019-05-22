@@ -1,0 +1,14 @@
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Sales\Sales.API\bin\Debug\netcoreapp2.2\SalesMicroservice.deps.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Sales\Sales.API\bin\Debug\netcoreapp2.2\SalesMicroservice.runtimeconfig.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Sales\Sales.API\bin\Debug\netcoreapp2.2\SalesMicroservice.runtimeconfig.dev.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Sales\Sales.API\bin\Debug\netcoreapp2.2\SalesMicroservice.dll
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Sales\Sales.API\bin\Debug\netcoreapp2.2\SalesMicroservice.pdb
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Sales\Sales.API\obj\Debug\netcoreapp2.2\SalesMicroservice.csprojAssemblyReference.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Sales\Sales.API\obj\Debug\netcoreapp2.2\SalesMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Sales\Sales.API\obj\Debug\netcoreapp2.2\SalesMicroservice.RazorAssemblyInfo.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Sales\Sales.API\obj\Debug\netcoreapp2.2\SalesMicroservice.RazorAssemblyInfo.cs
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Sales\Sales.API\obj\Debug\netcoreapp2.2\SalesMicroservice.AssemblyInfoInputs.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Sales\Sales.API\obj\Debug\netcoreapp2.2\SalesMicroservice.AssemblyInfo.cs
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Sales\Sales.API\obj\Debug\netcoreapp2.2\SalesMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Sales\Sales.API\obj\Debug\netcoreapp2.2\SalesMicroservice.dll
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Sales\Sales.API\obj\Debug\netcoreapp2.2\SalesMicroservice.pdb

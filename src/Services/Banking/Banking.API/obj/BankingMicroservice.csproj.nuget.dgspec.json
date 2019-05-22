@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\BankingMicroservice\\BankingMicroservice.csproj": {}
+    "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Banking\\Banking.API\\BankingMicroservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\BankingMicroservice\\BankingMicroservice.csproj": {
+    "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Banking\\Banking.API\\BankingMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\BankingMicroservice\\BankingMicroservice.csproj",
+        "projectUniqueName": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Banking\\Banking.API\\BankingMicroservice.csproj",
         "projectName": "BankingMicroservice",
-        "projectPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\BankingMicroservice\\BankingMicroservice.csproj",
+        "projectPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Banking\\Banking.API\\BankingMicroservice.csproj",
         "packagesPath": "C:\\Users\\VakishnaThayalan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\BankingMicroservice\\obj\\",
+        "outputPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Banking\\Banking.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

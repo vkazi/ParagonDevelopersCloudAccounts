@@ -1,0 +1,14 @@
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Account\Account.API\bin\Debug\netcoreapp2.2\AccountsMicroservice.deps.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Account\Account.API\bin\Debug\netcoreapp2.2\AccountsMicroservice.runtimeconfig.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Account\Account.API\bin\Debug\netcoreapp2.2\AccountsMicroservice.runtimeconfig.dev.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Account\Account.API\bin\Debug\netcoreapp2.2\AccountsMicroservice.dll
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Account\Account.API\bin\Debug\netcoreapp2.2\AccountsMicroservice.pdb
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Account\Account.API\obj\Debug\netcoreapp2.2\AccountsMicroservice.csprojAssemblyReference.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Account\Account.API\obj\Debug\netcoreapp2.2\AccountsMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Account\Account.API\obj\Debug\netcoreapp2.2\AccountsMicroservice.RazorAssemblyInfo.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Account\Account.API\obj\Debug\netcoreapp2.2\AccountsMicroservice.RazorAssemblyInfo.cs
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Account\Account.API\obj\Debug\netcoreapp2.2\AccountsMicroservice.AssemblyInfoInputs.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Account\Account.API\obj\Debug\netcoreapp2.2\AccountsMicroservice.AssemblyInfo.cs
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Account\Account.API\obj\Debug\netcoreapp2.2\AccountsMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Account\Account.API\obj\Debug\netcoreapp2.2\AccountsMicroservice.dll
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Account\Account.API\obj\Debug\netcoreapp2.2\AccountsMicroservice.pdb

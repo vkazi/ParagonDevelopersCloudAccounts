@@ -1,0 +1,14 @@
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Taxation\Taxation.API\bin\Debug\netcoreapp2.2\TaxationMicroservice.deps.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Taxation\Taxation.API\bin\Debug\netcoreapp2.2\TaxationMicroservice.runtimeconfig.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Taxation\Taxation.API\bin\Debug\netcoreapp2.2\TaxationMicroservice.runtimeconfig.dev.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Taxation\Taxation.API\bin\Debug\netcoreapp2.2\TaxationMicroservice.dll
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Taxation\Taxation.API\bin\Debug\netcoreapp2.2\TaxationMicroservice.pdb
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Taxation\Taxation.API\obj\Debug\netcoreapp2.2\TaxationMicroservice.csprojAssemblyReference.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Taxation\Taxation.API\obj\Debug\netcoreapp2.2\TaxationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Taxation\Taxation.API\obj\Debug\netcoreapp2.2\TaxationMicroservice.RazorAssemblyInfo.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Taxation\Taxation.API\obj\Debug\netcoreapp2.2\TaxationMicroservice.RazorAssemblyInfo.cs
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Taxation\Taxation.API\obj\Debug\netcoreapp2.2\TaxationMicroservice.AssemblyInfoInputs.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Taxation\Taxation.API\obj\Debug\netcoreapp2.2\TaxationMicroservice.AssemblyInfo.cs
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Taxation\Taxation.API\obj\Debug\netcoreapp2.2\TaxationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Taxation\Taxation.API\obj\Debug\netcoreapp2.2\TaxationMicroservice.dll
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Taxation\Taxation.API\obj\Debug\netcoreapp2.2\TaxationMicroservice.pdb

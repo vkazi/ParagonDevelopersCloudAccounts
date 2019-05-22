@@ -12080,11 +12080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\AccountsMicroservice\\AccountsMicroservice.csproj",
+      "projectUniqueName": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Account\\Account.API\\AccountsMicroservice.csproj",
       "projectName": "AccountsMicroservice",
-      "projectPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\AccountsMicroservice\\AccountsMicroservice.csproj",
+      "projectPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Account\\Account.API\\AccountsMicroservice.csproj",
       "packagesPath": "C:\\Users\\VakishnaThayalan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\AccountsMicroservice\\obj\\",
+      "outputPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Account\\Account.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

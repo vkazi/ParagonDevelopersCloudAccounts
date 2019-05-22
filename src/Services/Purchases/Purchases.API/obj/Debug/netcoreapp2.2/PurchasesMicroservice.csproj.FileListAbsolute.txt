@@ -1,0 +1,14 @@
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Purchases\Purchases.API\bin\Debug\netcoreapp2.2\PurchasesMicroservice.deps.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Purchases\Purchases.API\bin\Debug\netcoreapp2.2\PurchasesMicroservice.runtimeconfig.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Purchases\Purchases.API\bin\Debug\netcoreapp2.2\PurchasesMicroservice.runtimeconfig.dev.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Purchases\Purchases.API\bin\Debug\netcoreapp2.2\PurchasesMicroservice.dll
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Purchases\Purchases.API\bin\Debug\netcoreapp2.2\PurchasesMicroservice.pdb
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Purchases\Purchases.API\obj\Debug\netcoreapp2.2\PurchasesMicroservice.csprojAssemblyReference.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Purchases\Purchases.API\obj\Debug\netcoreapp2.2\PurchasesMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Purchases\Purchases.API\obj\Debug\netcoreapp2.2\PurchasesMicroservice.RazorAssemblyInfo.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Purchases\Purchases.API\obj\Debug\netcoreapp2.2\PurchasesMicroservice.RazorAssemblyInfo.cs
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Purchases\Purchases.API\obj\Debug\netcoreapp2.2\PurchasesMicroservice.AssemblyInfoInputs.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Purchases\Purchases.API\obj\Debug\netcoreapp2.2\PurchasesMicroservice.AssemblyInfo.cs
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Purchases\Purchases.API\obj\Debug\netcoreapp2.2\PurchasesMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Purchases\Purchases.API\obj\Debug\netcoreapp2.2\PurchasesMicroservice.dll
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Purchases\Purchases.API\obj\Debug\netcoreapp2.2\PurchasesMicroservice.pdb

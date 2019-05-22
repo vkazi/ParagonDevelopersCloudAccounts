@@ -12080,11 +12080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\SalesMicroservice\\SalesMicroservice.csproj",
+      "projectUniqueName": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Sales\\Sales.API\\SalesMicroservice.csproj",
       "projectName": "SalesMicroservice",
-      "projectPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\SalesMicroservice\\SalesMicroservice.csproj",
+      "projectPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Sales\\Sales.API\\SalesMicroservice.csproj",
       "packagesPath": "C:\\Users\\VakishnaThayalan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\SalesMicroservice\\obj\\",
+      "outputPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Sales\\Sales.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

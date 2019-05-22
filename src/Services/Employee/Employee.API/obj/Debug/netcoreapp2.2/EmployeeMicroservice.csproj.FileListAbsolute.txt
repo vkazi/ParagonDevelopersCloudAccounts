@@ -1,0 +1,14 @@
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Employee\Employee.API\bin\Debug\netcoreapp2.2\EmployeeMicroservice.deps.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Employee\Employee.API\bin\Debug\netcoreapp2.2\EmployeeMicroservice.runtimeconfig.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Employee\Employee.API\bin\Debug\netcoreapp2.2\EmployeeMicroservice.runtimeconfig.dev.json
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Employee\Employee.API\bin\Debug\netcoreapp2.2\EmployeeMicroservice.dll
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Employee\Employee.API\bin\Debug\netcoreapp2.2\EmployeeMicroservice.pdb
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Employee\Employee.API\obj\Debug\netcoreapp2.2\EmployeeMicroservice.csprojAssemblyReference.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Employee\Employee.API\obj\Debug\netcoreapp2.2\EmployeeMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Employee\Employee.API\obj\Debug\netcoreapp2.2\EmployeeMicroservice.RazorAssemblyInfo.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Employee\Employee.API\obj\Debug\netcoreapp2.2\EmployeeMicroservice.RazorAssemblyInfo.cs
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Employee\Employee.API\obj\Debug\netcoreapp2.2\EmployeeMicroservice.AssemblyInfoInputs.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Employee\Employee.API\obj\Debug\netcoreapp2.2\EmployeeMicroservice.AssemblyInfo.cs
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Employee\Employee.API\obj\Debug\netcoreapp2.2\EmployeeMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Employee\Employee.API\obj\Debug\netcoreapp2.2\EmployeeMicroservice.dll
+C:\Users\VakishnaThayalan\Documents\MicroServicesAccounts\src\Services\Employee\Employee.API\obj\Debug\netcoreapp2.2\EmployeeMicroservice.pdb

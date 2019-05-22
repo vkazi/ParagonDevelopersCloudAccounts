@@ -12080,11 +12080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\TaxationMicroservice\\TaxationMicroservice.csproj",
+      "projectUniqueName": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Taxation\\Taxation.API\\TaxationMicroservice.csproj",
       "projectName": "TaxationMicroservice",
-      "projectPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\TaxationMicroservice\\TaxationMicroservice.csproj",
+      "projectPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Taxation\\Taxation.API\\TaxationMicroservice.csproj",
       "packagesPath": "C:\\Users\\VakishnaThayalan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\ApiGateways\\TaxationMicroservice\\obj\\",
+      "outputPath": "C:\\Users\\VakishnaThayalan\\Documents\\MicroServicesAccounts\\src\\Services\\Taxation\\Taxation.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
